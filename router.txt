@@ -1,0 +1,6 @@
+
+# use command  |arp -n;| to check the default interface and the destination MAC of that interface this two use to init system
+
+IP= 
+MAC= 
+interface= 
