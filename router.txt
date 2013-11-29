@@ -1,5 +1,6 @@
 # use command  |arp -n;| to check the default interface and the destination MAC of that interface this two use to init system
 
-IP= 192.168.80.129
+SIP= 192.168.80.129
 MAC= 00:50:56:f6:51:18
 interface= eth0
+DIP=123.45.78.9
